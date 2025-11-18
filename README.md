@@ -2,7 +2,7 @@
 Neural Network Implementation from Scratch
 A Python implementation of a fully-connected neural network built from scratch using NumPy. This implementation includes advanced features like L2 regularization, learning rate decay, and proper weight initialization.
 Performance
-** Achieved Results**: 96.5% Test Accuracy
+#Achieved Results: 96.5% Test Accuracy
 
 The implementation demonstrates excellent performance on complex classification tasks:
 
